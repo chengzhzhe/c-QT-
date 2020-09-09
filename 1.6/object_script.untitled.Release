@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\page.o
+./release\buy.o
+./release\query.o
+./release\refund.o
+./release\purchase.o
+./release\buyform.o
+./release\queryform.o
+./release\moc_mainwindow.o
+);

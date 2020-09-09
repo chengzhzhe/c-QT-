@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\page.o
+./debug\buy.o
+./debug\query.o
+./debug\refund.o
+./debug\purchase.o
+./debug\buyform.o
+./debug\queryform.o
+./debug\moc_mainwindow.o
+);
